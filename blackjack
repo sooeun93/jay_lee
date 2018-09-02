@@ -27,6 +27,7 @@ public class Main {
 		StartGame sg = new StartGame();
 		sg.startNewGame();
 		
+		//카드받기
 		sg.getOneCard();
 		
 	}
